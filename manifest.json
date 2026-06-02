@@ -1,0 +1,26 @@
+{
+  "name": "Health All-In",
+  "short_name": "Health",
+  "id": "health-all-in",
+  "description": "Your personal health operating system",
+  "start_url": "https://mhoman05.github.io/health-all-in/",
+  "scope": "https://mhoman05.github.io/health-all-in/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
